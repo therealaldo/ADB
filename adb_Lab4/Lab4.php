@@ -40,7 +40,7 @@ foreach($records as $rec){
         $ins->bindParam(":studentId",$studentId);
         $ins->bindParam(":semester",$semester);
         $ins->bindParam(":grade",$grade);
-        $ins->execute()
+        $ins->execute();
     }
 }
 
