@@ -1,0 +1,15 @@
+_id,type,name,age,height,children
+0.0,,,,,
+2.0,,,,,
+3.0,,"Bob",,,
+ObjectID(563002057cd4c1587c5644e1),"user","James Bond",,,
+ObjectID(563003847cd4c1587c5644e2),"user","Starlord",38.0,75.0,
+ObjectID(563005607cd4c1587c5644e3),"overlord","Barack Obama",50.0,58.0,
+ObjectID(563005607cd4c1587c5644e4),"admin","Aldo",20.0,67.0,
+ObjectID(563005607cd4c1587c5644e5),"user","Jane Doe",,60.0,
+ObjectID(563005637cd4c1587c5644e6),"user","Bruce Wayne",43.0,,
+ObjectID(563005c07cd4c1587c5644e7),"admin","John",41.0,70.0,
+ObjectID(5630062b7cd4c1587c5644e8),"user","Michelle",35.0,,
+ObjectID(5630063e7cd4c1587c5644e9),"user","Mark",,,
+ObjectID(5632a1d83a980ad1191f63f4),"user","Mark Zuckerburg",28.0,,
+ObjectID(5632a26d3a980ad1191f63f5),"admin","Ben Forta",58.0,,"[ { ""name"" : ""Sally"", ""age"" : 4 }, { ""name"" : ""Jimmy"", ""age"" : 12 } ]"
