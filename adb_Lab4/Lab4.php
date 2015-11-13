@@ -1,8 +1,8 @@
 <?php
 
 // Set debug to show errors
-error_reporting(E_ALL);
-ini_set('memory_limit', -1);
+error_reporting(-1);
+ini_set('display_errors', 1);
 
 // Connect to MongoDB
 $username = 'adbOwner';
