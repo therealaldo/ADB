@@ -1,0 +1,21 @@
+_id,name,type,vendor,category,rating,address,city,state
+"918Spyder","918 Spyder","product","Lucy Loo","Automotive",10.0,,,
+"ARParrot","AR Parrot Drone","product","Lucy Loo","Electronic",9.0,,,
+"Battleship","Battleship","product","Mattel","games",7.0,,,
+"BigMac","Big Mac","product","McDonalds","fast food",5.0,,,
+"BillyBob","Billy Bob","vendor",,,,"4092 Eastgate Dr","Orlando","FL"
+"CardboardBox","Cardboard Box","product","Billy Bob","Furniture",10.0,,,
+"Cardigan","Cardigan","product","Lucy Loo","Clothing",,,,
+"ChickenNugget","Chicken Nugget","product","McDonalds","fast food",6.0,,,
+"LucyLoo","Lucy Loo","vendor",,,,"451 E Altamonte Dr","Altamonte Springs","FL"
+"MacbookPro","Macbook Pro","product","Billy Bob","Electronic",7.0,,,
+"Malibu_Barbi","Malibu Barbi","product","Mattel","doll",,,,
+"Mattel","Mattel","vendor",,,,"763 Runies Ct","El Segundo","CA"
+"McDonalds","McDonalds","vendor",,,,"2111 McDonald's Dr","Oak Brook","IL"
+"Nintendo","Nintendo","vendor",,,,"763 Runies Ct","Redmond","WA"
+"RaspberryPi","Raspberry Pi","product","Billy Bob","Electronic",8.0,,,
+"Reebok","Reebok","vendor",,,,"1895 J.W. Foster Boulevard","Canton","mA"
+"Sony","Sony","vendor",,,,"3213 Tech Way","Los Angeles","CA"
+"Wii","Wii","product","Nintendo","electronics",10.0,,,
+"ZpumpFusion","ZPUMP FUSION","product","Reebok","shoes",8.0,,,
+"iPhone6","iPhone 6","product","Billy Bob","Electronic",,,,
